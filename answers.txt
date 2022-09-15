@@ -30,3 +30,6 @@ What changed in the output of https://webdocs.cs.ualberta.ca/~hindle1/1.py when 
 The Form Contents changed to show the data attached to the POST request. Two new fields were added: CONTENT_LENGTH and CONTENT_TYPE.
 The REQUEST_METHOD also changed from GET to POST.
 POST request is used to post new data into a resource or collection.
+
+Question 8
+Raw url: https://raw.githubusercontent.com/CMPUT404F22/lab1/master/find_requests_version.py
