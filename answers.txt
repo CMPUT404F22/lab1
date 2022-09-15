@@ -1,0 +1,32 @@
+Git & Github
+Question 1
+Github URL: https://github.com/zarifmahfuz
+
+
+virtualenv
+Question 2
+requests version: 2.27.1
+
+Question 3
+requests version: 2.28.1
+
+Question 4
+Virtual environment python is the python that is used for specifc projects that use that virtual environment. On the other hand,
+non-virtual environment python is the python that is global to all other projects.
+
+
+curl
+Question 5
+What status code is returned for http://google.com? Answer: 301
+What URL must you visit to get a 200 status code? Answer: http://www.google.com/
+
+Question 6
+What status code is returned for http://google.com/teapot? Answer: 301
+Is it the one returned by curl -i or curl -iL? Answer: curl -i
+What happens when you curl http://www.google.com/teapot? Answer: We get the response - HTTP/1.1 418 I'm a Teapot.
+
+Question 7
+What changed in the output of https://webdocs.cs.ualberta.ca/~hindle1/1.py when you used -X POST? What is this method useful for?
+The Form Contents changed to show the data attached to the POST request. Two new fields were added: CONTENT_LENGTH and CONTENT_TYPE.
+The REQUEST_METHOD also changed from GET to POST.
+POST request is used to post new data into a resource or collection.
